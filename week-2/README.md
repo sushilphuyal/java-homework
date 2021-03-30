@@ -7,6 +7,8 @@
 > Roll no: 21
 >
 > Submitted date: 2021-03-20
+>
+> Submitted to: Samir Alam @ samir.alam@iic.edu.np
 
 > Qn. 1 Write a program to find perimeter of a rectangle.
 
@@ -279,7 +281,6 @@ Local variable value 40
 
 
 
+source code link: https://github.com/sujjanx/java-homework/tree/main/week-2
 
-
-## Thank you! 
-
+## Thank you!
